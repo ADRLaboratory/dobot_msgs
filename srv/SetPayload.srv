@@ -1,0 +1,5 @@
+float64 weight
+float64 inertia
+---
+bool success
+string message
